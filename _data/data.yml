@@ -68,8 +68,8 @@ projects:
     title: Projects
     intro: >
       I enjoy exploring different languages to see what opportunities they bring 
-	  to the table. I find that the best way to understand something is to get 
-	  stuck in and build working solutions.
+      to the table. I find that the best way to understand something is to get 
+      stuck in and build working solutions.
     assignments:
       - title: GuitarAnalyze
         link: "#"
