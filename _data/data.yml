@@ -15,7 +15,7 @@ sidebar:
     email: Penney.Software@Gmail.com
     phone: 07706 823005
     website: 13BDev.Github.io #do not add http://
-    linkedin: [LinkedIn/nicholas-penney-4796a8140]
+    linkedin: nicholas-penney-4796a8140
     github: 13BDev
     gitlab:
     bitbucket:
@@ -29,19 +29,19 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Cryptography
         link:
 
-      - item: Snowboarding
+      - item: Fitness / Nutrition
         link:
 
-      - item: Cooking
+      - item: Photo/video editing
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      After starting and simultaneously running two self-employed businesses in the automotive engineering industry, I am keen to pursue a new long-term career in software development. Taking what I’ve learnt about business, attention to detail, project management, problem solving, customer satisfaction and high-quality end products, I know that I will I be a real asset to the company. I am someone who strives to constantly improve my performance in whatever I undertake – both during work hours and in my own time to ensure that I am always working to be at the top of my game.
+      Entrepreneur and automotive engineer, now exploring the amazing world of code. Having reached my goals with two businesses, I am now looking to take what I've taught myself about software and web development to make positive changes in the world with a company that will encourage me to grow. I am a curious, driven individual who always strives to find a better way of doing things and improve their skill set.
 education:
     - degree: BA in Accounting & Financial Management
       university: University of Sheffield
@@ -79,49 +79,27 @@ projects:
         link: "#"
         tagline: "A Countdown-style mobile app built with Android Studio using Java."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C# / ASP.NET MVC
+        level: 92%
 
-      - name: Angular
-        level: 98%
+      - name: HTML5 & CSS3
+        level: 87%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: JavaScript
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SQL
+        level: 82%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Excel / Data
+        level: 78%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Thank you for your time, please get in touch!
