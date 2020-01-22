@@ -79,7 +79,7 @@ projects:
         link: "#"
         tagline: "A Countdown-style mobile app built with Android Studio using Java."
         
-        - title: The Complete ASP.NET MVC 5 Course
+      - title: The Complete ASP.NET MVC 5 Course
         link: "#"
         tagline: "Udemy course by Mosh Hamedani. This taught me a lot about building dynamic website websites using the MVC design pattern - from responsive web design utilising Bootstrap to secure connections to online databases."
 
