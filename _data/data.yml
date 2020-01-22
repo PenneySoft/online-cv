@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: Penney.Software@Gmail.com
     phone: 07706 823005
-    website: 13BDev.Github.io #do not add http://
+    website: PenneySoft.Github.io #do not add http://
     linkedin: nicholas-penney-4796a8140
-    github: 13BDev
+    github: PenneySoft
     gitlab:
     bitbucket:
     twitter: 
@@ -39,7 +39,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       Entrepreneur and automotive engineer, now exploring the amazing world of code. Having reached my goals with two businesses, I am now looking to take what I've taught myself about software and web development to make positive changes in the world with a company that will encourage me to grow. I am a curious, driven individual who always strives to find a better way of doing things and improve their skill set.
 education:
@@ -65,7 +65,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Projects & Learning
     intro: >
       I enjoy exploring different languages to see what opportunities they bring 
       to the table. I find that the best way to understand something is to get 
@@ -78,28 +78,32 @@ projects:
       - title: Numbers Round
         link: "#"
         tagline: "A Countdown-style mobile app built with Android Studio using Java."
+        
+        - title: The Complete ASP.NET MVC 5 Course
+        link: "#"
+        tagline: "Udemy course by Mosh Hamedani. This taught me a lot about building dynamic website websites using the MVC design pattern - from responsive web design utilising Bootstrap to secure connections to online databases."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Java
-        level: 90%
+        level: 98
 
       - name: C# / ASP.NET MVC
-        level: 92%
-
-      - name: HTML5 & CSS3
-        level: 87%
-
-      - name: JavaScript
-        level: 80%
-
-      - name: SQL
         level: 82%
 
+      - name: HTML5 & CSS3
+        level: 77%
+
+      - name: JavaScript
+        level: 70%
+
+      - name: SQL
+        level: 72%
+
       - name: Excel / Data
-        level: 78%
+        level: 68%
 
 footer: >
     Thank you for your time, please get in touch!
