@@ -49,21 +49,22 @@ education:
       details: |
         Financial Accounting. Management Accounting. Project Management. Marketing. Auditing.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Business owner
+      time: 2010 - Present
+      company: Nick Penney Restorations
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Automotive engineer restoring rare / valuable veteran vehicles. Utilising 
+        a plethora or skills including turning, milling, welding, fabrication and 
+        project management.
+        Full restorations, bespoke component manufacture, servicing and tuning 
+        provided, among other services.
+    - role: Business owner
+      time: 2016 - Present
+      company: 13Black Rotorsport
+      details: |
+        Following a personal passion, establishing a recognised specialist garage 
+        catering for rotary-engined sports cars. Built up a loyal customer base 
+        in a difficult market and doubled turnover within 2 years.
 projects:
     title: Projects & Learning
     intro: >
