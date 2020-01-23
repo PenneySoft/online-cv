@@ -20,8 +20,10 @@
     <div class="item">
 
       <span class="project-title">
+        {% if project.img %}
+        <img src="{{ project.img }}" style="width:500px;height:600px;">
         {% if project.link %}
-        <img src="{{ project.link }}" target="_blank"> {{ project.title }}
+        <a href="{{ project.link }}" target="_blank"> {{ project.title }}
         {% else %}
         {{ project.title }}
         {% endif %}
