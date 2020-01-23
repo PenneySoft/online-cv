@@ -17,19 +17,19 @@
   {% endif %}
 
   {% for project in projects.assignments %}
-    <div class="item">
+    <div class="item" class="position: relative;">
 
       <span class="project-title">
         {% if project.link %}
         <img src="{{ project.img }}" style="width:50px;height:50px;float:left;"> 
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+        <a href="{{ project.link }}" target="_blank" style="position: absolute;top: 20px;">{{ project.title }}</a>
         {% else %}
         {{ project.title }}
         {% endif %}
       </span>
 
       {% if project.tagline %}
-      <div style="clear: right;">- <span class="project-tagline">{{ project.tagline }}</div></span>
+      <div style="clear: both;">- <span class="project-tagline">{{ project.tagline }}</div></span>
       {% endif %}
 
     </div><!--//item-->
