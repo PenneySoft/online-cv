@@ -71,7 +71,7 @@ projects:
       to the table. I find that the best way to understand something is to get 
       stuck in and build working solutions.
     assignments:
-      - title: GuitarAnalyze
+      - title: <img src"https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/android.jpg">GuitarAnalyze
         link: "#"
         tagline: "A desktop tool built with JavaFX for guitarists to better understand musical composition."
 
