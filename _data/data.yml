@@ -71,16 +71,16 @@ projects:
       to the table. I find that the best way to understand something is to get 
       stuck in and build working solutions.
     assignments:
-      - title: <img src"https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/android.jpg?raw=true">GuitarAnalyze
-        link: "#"
+      - title: GuitarAnalyze
+        link: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/java.jpg?raw=true"
         tagline: "A desktop tool built with JavaFX for guitarists to better understand musical composition."
 
       - title: Numbers Round
-        link: "#"
+        link: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/android.jpg?raw=true"
         tagline: "A Countdown-style mobile app built with Android Studio using Java."
         
       - title: The Complete ASP.NET MVC 5 Course
-        link: "#"
+        link: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/dotnet.jpg?raw=true"
         tagline: "Udemy course by Mosh Hamedani. This taught me a lot about building dynamic website websites using the MVC design pattern - from responsive web design utilising Bootstrap to secure connections to online databases."
 
 skills:
