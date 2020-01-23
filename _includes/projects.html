@@ -21,8 +21,8 @@
 
       <span class="project-title">
         {% if project.link %}
-        <a href="{{ project.link }}" target="_blank"> {{ project.title }}
-        <img src="{{ project.img }}" style="width:50px;height:50px;">
+        <img src="{{ project.img }}" style="width:50px;height:50px;"> 
+        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
         {% else %}
         {{ project.title }}
         {% endif %}
