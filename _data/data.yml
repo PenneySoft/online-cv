@@ -74,17 +74,17 @@ projects:
     assignments:
       - title: GuitarAnalyze
         img: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/java.jpg?raw=true"
-        link: "www.google.co.uk"
+        link: "https://github.com/PenneySoft/Numbers-Round"
         tagline: "A desktop tool built with JavaFX for guitarists to better understand musical composition."
 
       - title: Numbers Round
         img: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/android.jpg?raw=true"
-        link: "www.android.com"
+        link: "https://github.com/PenneySoft/GuitarAnalyze"
         tagline: "A Countdown-style mobile app built with Android Studio using Java."
         
       - title: The Complete ASP.NET MVC 5 Course
         img: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/dotnet.jpg?raw=true"
-        link: "www.microsoft.com"
+        link: "https://www.udemy.com/course/the-complete-aspnet-mvc-5-course/"
         tagline: "Udemy course by Mosh Hamedani. This taught me a lot about building dynamic website websites using the MVC design pattern - from responsive web design utilising Bootstrap to secure connections to online databases."
 
 skills:
