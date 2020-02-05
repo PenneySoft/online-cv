@@ -74,28 +74,28 @@ projects:
     assignments:
       - title: GuitarAnalyze
         img: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/java.jpg?raw=true"
-        link: "https://github.com/PenneySoft/GuitarAnalyze"
+        link: "https://github.com/PenneySoft/G13"
         tagline: "A desktop tool built with JavaFX for guitarists to better understand musical composition."
 
-      - title: Numbers Round
-        img: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/android.jpg?raw=true"
-        link: "https://github.com/PenneySoft/Numbers-Round"
-        tagline: "A Countdown-style mobile app built with Android Studio using Java."
-        
       - title: Government Job Board
         img: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/dotnet.jpg?raw=true"
         link: "https://github.com/PenneySoft/GovernmentJobBoard"
         tagline: "Job website using ASP.NET MVC 5."
+        
+      - title: Numbers Round
+        img: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/android.jpg?raw=true"
+        link: "https://github.com/PenneySoft/Numbers-Round"
+        tagline: "A Countdown-style mobile app built with Android Studio using Java."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Java
-        level: 80%
+        level: 82%
 
       - name: C# / ASP.NET MVC
-        level: 82%
+        level: 80%
 
       - name: HTML5 & CSS3
         level: 77%
