@@ -82,10 +82,10 @@ projects:
         link: "https://github.com/PenneySoft/Numbers-Round"
         tagline: "A Countdown-style mobile app built with Android Studio using Java."
         
-      - title: The Complete ASP.NET MVC 5 Course
+      - title: Government Job Board
         img: "https://github.com/PenneySoft/online-cv/blob/gh-pages/assets/images/dotnet.jpg?raw=true"
-        link: "https://www.udemy.com/course/the-complete-aspnet-mvc-5-course/"
-        tagline: "Udemy course by Mosh Hamedani. This taught me a lot about building dynamic website websites using the MVC design pattern - from responsive web design utilising Bootstrap to secure connections to online databases."
+        link: "https://github.com/PenneySoft/GovernmentJobBoard"
+        tagline: "Job website using ASP.NET MVC 5."
 
 skills:
     title: Skills &amp; Proficiency
