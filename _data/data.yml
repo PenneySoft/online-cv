@@ -92,16 +92,16 @@ skills:
 
     toolset:
       - name: Java
-        level: 82%
+        level: 80%
 
       - name: C# / ASP.NET MVC
-        level: 80%
+        level: 74%
 
       - name: HTML5 & CSS3
         level: 77%
 
       - name: JavaScript
-        level: 70%
+        level: 82%
 
       - name: SQL
         level: 72%
